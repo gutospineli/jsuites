@@ -60,7 +60,7 @@ To initialize a new tag or keyword input element, configure the following settin
 
 ### Keywords Management
 
-Implement an essential keywords management input using the `jSuites.tags` as a JavaScript web component. This setup allows for efficient handling and organization of keywords within a user-friendly input field, suitable for various applications such as content tagging, search engine optimization tools, and metadata management.
+Implement an essential keywords management input using the `jSuites.tags` as a JavaScript web component. This setup allows for efficient handling and organization of keywords within a user-friendly input field, suitable for various applications such as content tagging, search engine optimization tools, and [metadata management]([url](https://lemonadejs.net/docs/plugins/data-grid)).
 
 {.all}
 ```html
