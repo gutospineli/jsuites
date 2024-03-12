@@ -6,7 +6,7 @@ description: Easily create custom right-click context menus in web applications 
 
 # JavaScript Context Menu
 
-Introducing the jSuites context menu, a dynamic JavaScript plugin designed to enrich web applications by enabling custom right-click context menus on HTML elements. Perfectly adaptable across different web frameworks, this tool is optimized for a smooth and consistent user experience on all devices, including mobile. With its broad customization capabilities, you can easily integrate submenus, icons, and specific event handlers to create a more interactive and user-friendly interface. Key Features:
+Introducing the jSuites context menu, a dynamic JavaScript plugin designed to enrich web applications by enabling custom right-click [context menus](https://jspreadsheet.com/docs/v8/contextmenu) on HTML elements. Perfectly adaptable across different web frameworks, this tool is optimized for a smooth and consistent user experience on all devices, including mobile. With its broad customization capabilities, you can easily integrate submenus, icons, and specific event handlers to create a more interactive and user-friendly interface. Key Features:
 
 - **Framework Flexibility**: Easily integrate with React, Angular, VueJS and other frameworks.
 - **Mobile Optimization**: Ensures a responsive and intuitive experience on mobile devices.
