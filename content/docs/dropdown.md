@@ -8,7 +8,7 @@ description: Explore comprehensive examples for managing JavaScript dropdowns, f
 
 ## Dropdown Overview
 
-The `Jsuites.dropdown` is a JavaScript autocomplete dropdown that offers a suite of customizable options that present a dynamic and efficient alternative to conventional JavaScript dropdowns. Its design prioritizes lightweight and responsive characteristics, making it an ideal choice for small screens and diverse web contexts.
+The `Jsuites.dropdown` is a [JavaScript autocomplete dropdown] (https://jspreadsheet.com/docs/v8/dropdown-and-autocomplete) that offers a suite of customizable options that present a dynamic and efficient alternative to conventional JavaScript dropdowns. Its design prioritizes lightweight and responsive characteristics, making it an ideal choice for small screens and diverse web contexts.
 
 The upgraded JavaScript dropdown plugin enhances functionality with native autocomplete, multi-select capabilities, and adaptive rendering. Key enhancements include:
 
