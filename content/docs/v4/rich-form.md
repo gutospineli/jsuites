@@ -5,7 +5,7 @@ description: The jsuites rich form plugin allow developers to create smart form 
 JavaScript Form
 ===============
 
-The `jSuites.form` enhances a basic HTML form bringing various useful features when dealing with HTML forms and its elements. The most useful features are the following:
+The `jSuites.form` enhances a basic HTML form bringing various useful features when dealing with [HTML forms] (https://jspreadsheet.com/docs/v7/examples/richtext-html-editor) and its elements. The most useful features are the following:
 
 1.  **Tracking any updates (Are you sure)?:** It alerts the user before leaving a page when he has unsaved changes in one form.
 2.  **jSuites.validations:** Create basic and custom input validations using the element properties.
