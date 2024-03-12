@@ -7,7 +7,7 @@ description: Jsuites calendar is a lightweight JavaScript Calendar plugin offeri
 JavaScript Calendar
 ===================
 
-Jsuites Calendar is a JavaScript Calendar and responsive web component plugin that combines the functionality of a calendar, date picker, and date-time picker. Designed to deliver an exceptional user experience across various devices, this lightweight JavaScript tool is a valuable addition to any web application, simplifying date selection and enhancing overall usability.  
+Jsuites Calendar is a [JavaScript Calendar](https://jspreadsheet.com/docs/v8/date-and-calendar) and responsive web component plugin that combines the functionality of a calendar, date picker, and date-time picker. Designed to deliver an exceptional user experience across various devices, this lightweight JavaScript tool is a valuable addition to any web application, simplifying date selection and enhancing overall usability.  
   
 
 * React, Angular, VueJS compatible;
