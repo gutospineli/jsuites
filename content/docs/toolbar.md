@@ -6,7 +6,7 @@ description: The jSuites JavaScript Toolbar plugin facilitates the development o
 
 # JavaScript Toolbars
 
-The jSuites toolbar plugin enables embedding dynamic, fully customizable toolbars into web applications. This JavaScript tool is both lightweight and responsive, designed to aggregate actions into a cohesive toolbar interface. It supports a diverse array of items, icons, and separators, allowing for the creation of tailored navigation bars and intricate toolsets for various web-based projects. 
+The jSuites toolbar plugin enables embedding dynamic, fully [customizable toolbars](https://jspreadsheet.com/docs/v7/examples/spreadsheet-toolbars) into web applications. This JavaScript tool is both lightweight and responsive, designed to aggregate actions into a cohesive toolbar interface. It supports a diverse array of items, icons, and separators, allowing for the creation of tailored navigation bars and intricate toolsets for various web-based projects. 
 
 ## Documentation
 
