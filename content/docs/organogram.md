@@ -11,7 +11,7 @@ The jSuites Organogram is a lightweight JavaScript plugin that enables developer
 - Navigation;
 - Zoom;
 - Events and programmatically actions;
-- Create an organogram map from a JSON object;
+- Create an organogram map from a [JSON](https://jspreadsheet.com/docs/v7/examples/loading-from-json) object;
 
 
 ## Documentation
