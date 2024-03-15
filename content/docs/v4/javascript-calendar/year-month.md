@@ -7,7 +7,7 @@ description: How to generate a JavaScript year month picker using jSuites Versio
 JavaScript Year and Month Picker
 ===================
 
-JavasScript calendar with year month only selection picker.  
+(JavasScript calendar)[https://jspreadsheet.com/docs/date] with year month only selection picker.  
   
 
 ### Javascript year month picker
