@@ -7,7 +7,7 @@ description: How to render a javascript calendar with a timepicker.
 Calendar with a time picker
 ===========================
 
-The example below enables the time picker on the JavaScript calendar.  
+The example below enables the time picker on the [JavaScript calendar](https://jspreadsheet.com/docs/date).  
   
 
 ### Javascript date and time picker
