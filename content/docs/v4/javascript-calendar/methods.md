@@ -10,7 +10,7 @@ Programmatically changes
 Documentation
 -------------
 
-Available methods in the javascript calendar  
+Available methods in the [javascript calendar](https://jspreadsheet.com/docs/date)  
 
 | Method | Description |
 | --- | --- |
