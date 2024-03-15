@@ -4,7 +4,7 @@ description: Learn how to create a valid selectable range of dates in the javasc
 
 * [JavaScript Calendar](/docs/v4/javascript-calendar)
 
-JavaScript calendar
+[JavaScript calendar](https://jspreadsheet.com/docs/date)
 ===================
 
 Using the validRange property to prevent a date outside the valid range.  
