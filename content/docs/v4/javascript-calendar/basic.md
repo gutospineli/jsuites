@@ -4,7 +4,7 @@ description: How to render a javascript calendar as a plugin or a javascript web
 
 * [JavaScript Calendar](/docs/v4/javascript-calendar)
 
-Javascript calendar
+[Javascript calendar](https://jspreadsheet.com/docs/date)
 ===================
 
 The calendar can be used as a plugin or a web component. It offers a variety of options to customize your requirements.  
