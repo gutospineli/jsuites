@@ -10,7 +10,7 @@ Responsive JavaScript calendar
 Full screen mode
 ----------------
 
-You can use the property `fullscreen:` true to start the calendar in full screen mode. Bear in mind that this property is automatic set as true when the screen width is lower than 800 pixels.
+You can use the property `fullscreen:` true to start the [calendar](https://jspreadsheet.com/docs/date) in full screen mode. Bear in mind that this property is automatic set as true when the screen width is lower than 800 pixels.
 
   
 ```html
