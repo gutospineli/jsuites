@@ -7,7 +7,7 @@ description: How to handle the events of the jsuites calendar picker.
 JavaScript calendar Events
 ==========================
 
-This section provides more information about the events on the javascript calendar plugin.  
+This section provides more information about the events on the [javascript calendar](https://jspreadsheet.com/docs/date) plugin.  
   
 
 Documentation
