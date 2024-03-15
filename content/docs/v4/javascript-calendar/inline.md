@@ -4,7 +4,7 @@ description: Create nice applications with the jsuites inline javascript calenda
 
 * [JavaScript Calendar](/docs/v4/javascript-calendar)
 
-JavaScript Calendar
+[JavaScript Calendar](https://jspreadsheet.com/docs/date)
 ===================
 
 Inline mode
