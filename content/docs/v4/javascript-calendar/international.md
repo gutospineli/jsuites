@@ -7,7 +7,7 @@ description: Customize the javascript calendar texts and international options.
 International calendar
 ======================
 
-Customize the text and the starting day in the JavasSript calendar
+Customize the text and the starting day in the [JavasSript calendar](https://jspreadsheet.com/docs/date)
 
   
   
